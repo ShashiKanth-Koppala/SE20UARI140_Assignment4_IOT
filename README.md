@@ -25,4 +25,4 @@ Average Waiting Time: 25.0
 
 Average Turnaround Time: 51.25
 
-The best algorithm is: SJF as it provides proper fairness and is more efficient
+The best algorithm is SJF as it provides proper fairness and is more efficient
